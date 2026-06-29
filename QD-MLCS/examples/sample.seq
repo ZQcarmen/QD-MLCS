@@ -1,0 +1,11 @@
+# Minimal example for QD-MLCS
+seqnum : 4
+alphabets : ACGT
+length : 6
+
+sequences%start
+ACGTAC
+AGCTAC
+ACTGAC
+ACGTGC
+%end
